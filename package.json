@@ -1,0 +1,23 @@
+{
+  "name": "skillchallenge-cab-finder",
+  "version": "1.0.0",
+  "description": "**Duration** : 120 mins",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobisupreme/SkillChallenge-Cab-Finder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobisupreme/SkillChallenge-Cab-Finder/issues"
+  },
+  "homepage": "https://github.com/tobisupreme/SkillChallenge-Cab-Finder#readme",
+  "dependencies": {
+    "mongoose": "^6.9.1"
+  }
+}
